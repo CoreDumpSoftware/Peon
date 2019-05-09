@@ -1,0 +1,3 @@
+C:\Users\Kevin\source\repos\Peon\Peon\WowApi\obj\Debug\netcoreapp2.1\WowApi.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Peon\Peon\WowApi\obj\Debug\netcoreapp2.1\WowApi.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Peon\Peon\WowApi\obj\Debug\netcoreapp2.1\WowApi.AssemblyInfo.cs
